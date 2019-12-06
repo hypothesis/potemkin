@@ -5,8 +5,6 @@ A pretend LMS for testing LTI apps.
 
 ## You will need
 
-* [Make](https://www.gnu.org/software/make/)
-
 * [Git](https://git-scm.com/)
 
 * [pyenv](https://github.com/pyenv/pyenv)
